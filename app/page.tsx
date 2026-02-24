@@ -9,31 +9,31 @@ import TeamSection from "./Landing/team";
 export default function Home() {
   return (
     <>
-      <div className="">
+      <div className="border-b-4">
         <LandingPage />
       </div>
 
-      <div className="">
+      <div className="border-b-4 max-w-365 mx-auto">
         <ShowcaseSection />
       </div>
 
-      <div className="">
+      <div className="border-b-4">
         <ProjectSection />
       </div>
 
-      <div className="">
+      <div className="border-b-4 max-w-365 mx-auto">
         <TeamSection />
       </div>
 
-      <div className="">
+      <div className="border-b-4 max-w-365 mx-auto">
         <ProcessSection />
       </div>
 
-      <div className="">
+      <div className="border-b-4 max-w-365 mx-auto">
         <AboutSection />
       </div>
 
-      <div className="">
+      <div className="border-b-4">
         <SubFooter/>
       </div>
     </>
