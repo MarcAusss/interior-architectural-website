@@ -20,7 +20,7 @@ export default function ProjectSection() {
                                     <h1 className="">
                                         FIRST FULL-SCALE <br />
                                         RESIDENTIAL PROJECT
-                                    </h1>
+                                    </h1>   
                                     <p className="">
                                         completed a comprehensive home transformation that <br />
                                         defined Renova&apos;s material-lead and timeless approach.
