@@ -37,7 +37,7 @@ export default function ProjectSection() {
                         <button>right</button>
                     </div>
                 </div>
-            </div>            
+            </div> 
         </div>
     );
 }
