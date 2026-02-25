@@ -25,7 +25,7 @@ export default function ProjectSection() {
                                         completed a comprehensive home transformation that <br />
                                         defined Renova&apos;s material-lead and timeless approach.
                                     </p>
-                                </div>
+                                </div>    
                                 <div className="w-1/2 h-full relative">
                                     <Image src="/images/image-2.png" alt="" className="object-cover" fill/>
                                 </div>
