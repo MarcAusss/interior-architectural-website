@@ -13,7 +13,7 @@ export default function ShowcaseSection() {
                         enduring design language, and carefully curated natural materials 
                         to create spaces that feel deeply personal.
                     </p>
-                </div>
+                </div> 
                 <div className="flex md:flex-row flex-col justify-between gap-5 my-8">
                     <div className="border-2 border-gray-200 w-full h-50 md:h-137.5 relative">
                         <div className="absolute inset-0 bg-linear-to-t from-black/60 via-black/20 to-black/20 z-10" />
