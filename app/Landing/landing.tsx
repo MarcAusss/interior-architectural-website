@@ -19,7 +19,7 @@ export default function LandingPage() {
                     TIMELESS COMFORT
                 </h1>
             </div>
- 
+   
             <div className="flex flex-col items-center md:flex-row md:justify-between w-full absolute bottom-10 left-0 px-6 md:px-0">
                 <p className="text-center md:text-left text-white max-w-xl">
                     Renova is a design studio built on the belief that interiors <br />
