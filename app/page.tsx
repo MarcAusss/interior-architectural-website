@@ -9,15 +9,15 @@ import TeamSection from "./Landing/team";
 export default function Home() {
   return (
     <>
-      <div className="border-b-4">
+      <div className="">
         <LandingPage />
       </div>
 
-      <div className="border-b-4 max-w-365 mx-auto">
+      <div className=" max-w-365 mx-auto">
         <ShowcaseSection />
       </div>
 
-      <div className="border-b-4">
+      <div className="">
         <ProjectSection />
       </div>
 

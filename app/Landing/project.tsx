@@ -40,7 +40,7 @@ export default function ProjectSection() {
                     </div>
                 </div> 
             </div>
-            <div className="flex my-20 gap-20"> 
+            <div className="flex md:my-24 my-10 gap-20"> 
                 <h1 className="text-[50px]"> Lorem</h1>
                 <h1 className="text-[50px]"> CRAFTED INTERIOR SPACES /</h1>
                 <h1 className="text-[50px]"> <i>TIMELESS </i> DESIGN</h1>
