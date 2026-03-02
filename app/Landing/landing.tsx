@@ -11,7 +11,7 @@ export default function LandingPage() {
         </video>
 
         <div className="absolute inset-0 bg-linear-to-b from-black/60 via-black/40 to-black/70 z-10" />
-
+  
         <div className="relative z-20 max-w-365 mx-auto h-full">
         
             <div className="flex items-center h-full justify-center">
