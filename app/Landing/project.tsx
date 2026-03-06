@@ -29,7 +29,7 @@ export default function ProjectSection() {
                                     </div>
                                     <div className="w-96 h-96 relative">
                                         <Image src="/images/image 15.png" alt="" className="object-cover" fill/>
-                                    </div>
+                                    </div> 
                                 </div>
                             </div>
                         </div>
