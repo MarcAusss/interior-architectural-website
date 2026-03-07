@@ -17,7 +17,7 @@ export default function ProjectSection() {
                             </div>
                             <div className="w-[60vw] bg-white p-5">
                                 <div className="flex items-end justify-between">
-                                    <div className="">
+                                    <div className=""> 
                                         <h1 className="">
                                             FIRST FULL-SCALE <br />
                                             RESIDENTIAL PROJECT
