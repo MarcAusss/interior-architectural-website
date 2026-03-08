@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function ShowcaseSection() {
     return (
-        <div>
+        <div>   
             <div className="md:my-20 my-10 px-6 md:px-0">
                 <div className="flex flex-col md:flex-row md:justify-between text-center md:text-left items-center">
                     <h1 className="text-[29px] md:text-4xl ">THE RENOVA PHILOSOPHY</h1>
